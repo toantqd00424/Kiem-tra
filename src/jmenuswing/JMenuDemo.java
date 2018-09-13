@@ -24,7 +24,7 @@ public class JMenuDemo extends JFrame {
 
 asdsadsadsad
     private JMenuBar menuBar;
-
+sssssssssssssssssssssssssssssssssssssssss
     private JMenu menu_1;
     private JMenu menu_2;
     private JMenu menu_3;
