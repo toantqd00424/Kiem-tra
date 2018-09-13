@@ -19,7 +19,7 @@ import javax.swing.*;
  */
 public class JMenuDemo extends JFrame {
 
-    private JMenuBar menuBar;
+    private JMenuBar menuBar123;
     private JMenu menu_1;
     private JMenu menu_2;
     private JMenu menu_3;
