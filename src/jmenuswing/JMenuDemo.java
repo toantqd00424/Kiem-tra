@@ -18,8 +18,13 @@ import javax.swing.*;
  * @param args the command line arguments
  */
 public class JMenuDemo extends JFrame {
+<
 
     private JMenuBar menuBar123;
+
+asdsadsadsad
+    private JMenuBar menuBar;
+
     private JMenu menu_1;
     private JMenu menu_2;
     private JMenu menu_3;
